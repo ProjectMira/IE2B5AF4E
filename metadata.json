@@ -86,7 +86,13 @@
       {
         "source": "opf/P1/I90EE4D0F/layers/4D15/Tibetan_Segment-5457.json",
         "transfered": "opf/P2/IE2B5AF4E/layers/5191/Tibetan_Segment-5457.json"
-      }
+      },
+      [
+        {
+          "source": "opf/P1/I90EE4D0F/layers/4D15/Meaning_Segment-E6E2.json",
+          "transfered": "opf/P2/IE2B5AF4E/layers/5191/Meaning_Segment-E6E2.json"
+        }
+      ]
     ]
   },
   "bases": [
