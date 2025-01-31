@@ -1,0 +1,102 @@
+{
+  "id": "IE2B5AF4E",
+  "title": {
+    "BO": "དགོངས་པ་རབ་གསལ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡-༦༤",
+    "EN": "None",
+    "ZH": "None"
+  },
+  "author": {
+    "BO": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ།",
+    "EN": "Tsongkhapa Lobzang Drakpa",
+    "ZH": "None"
+  },
+  "imported": "2025-01-31T19:21:53.139219",
+  "source": "http://purl.bdrc.io/resource/WA1NLM688",
+  "toolkit_version": "0.0.1",
+  "parser": "GoogleDocTranslationParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "composition_date": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "presentation": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "usage_title": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "title_short": {
+      "BO": "དགོངས་པ་རབ་གསལ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡-༦༤",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "title_long_clean": {
+      "BO": "དགོངས་པ་རབ་གསལ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡-༦༤",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "title_alt_1": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "title_alt_2": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "title_alt_3": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "title_alt_4": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "title_alt_5": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "is_commentary_of": {
+      "BO": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡-༦༤",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "is_version_of": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    },
+    "None": {
+      "BO": "None",
+      "EN": "None",
+      "ZH": "None"
+    }
+  },
+  "bases": [
+    {
+      "5191": {
+        "source_metadata": {
+          "total_segments": 2266
+        },
+        "base_file": "5191.txt"
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
